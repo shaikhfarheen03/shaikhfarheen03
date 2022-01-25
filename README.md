@@ -1,7 +1,8 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning bioinformatics
+- 👩‍💻 I have 7.5 years of experience working in a NGS laboratory
+- 🔭 I’m currently working on developing my bioinformatics skills
+- 🌱 I’m currently learning python, R, AWS
 - 👯 I’m looking to collaborate on bioinformatics projects
 - 💬 Ask me about NGS
 - 📫 How to reach me: shaikhfarheen03@gmail.com
