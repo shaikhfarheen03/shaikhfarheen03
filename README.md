@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 👩‍💻 I have 7.5 years of experience working in a NGS wet laboratory
+- 👩‍💻 I have a Masters degree and ~7.5 years of experience working in a NGS wet laboratory
 - 🔭 I’m currently working on developing my bioinformatics skills
 - 🌱 I’m currently learning python, R, AWS
 - 👯 I’m looking to collaborate on bioinformatics projects
